@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Don't Stop Believin'",
+  "base_artist": "Journey",
+  "createdAt": "2026-03-13T00:29:16.447837Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Don't Stop Believin'",
+      "artist": "Journey",
+      "has_synced": true,
+      "path": "select/01_Don't_Stop_Believin'_Journey.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Don’t Stop Believin’",
+      "artist": "Journey",
+      "has_synced": true,
+      "path": "select/02_Don’t_Stop_Believin’_Journey.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Don't Stop Believin'",
+      "artist": "Journey",
+      "has_synced": true,
+      "path": "select/03_Don't_Stop_Believin'_Journey.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Don't Stop Believin'",
+      "artist": "Northern Kings",
+      "has_synced": true,
+      "path": "select/04_Don't_Stop_Believin'_Northern_Kings.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Don't Stop Believin'",
+      "artist": "Juliana Hatfield",
+      "has_synced": false,
+      "path": "select/05_Don't_Stop_Believin'_Juliana_Hatfield.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Don't Stop Believin' (Glee Cast Concert Version)",
+      "artist": "Glee Cast",
+      "has_synced": true,
+      "path": "select/06_Don't_Stop_Believin'_(Glee_Cast_Concert_Version)_Glee_Cast.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Don't Stop Believin' (Glee Cast Version) - Cover of Journey",
+      "artist": "Glee Cast",
+      "has_synced": true,
+      "path": "select/07_Don't_Stop_Believin'_(Glee_Cast_Version)_-_Cover_of_Journey_Glee_Cast.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Don’t Stop Believin’",
+      "artist": "Journey",
+      "has_synced": true,
+      "path": "select/08_Don’t_Stop_Believin’_Journey.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "0567 - Journey - Don't Stop Believin'",
+      "artist": "Journey",
+      "has_synced": true,
+      "path": "select/09_0567_-_Journey_-_Don't_Stop_Believin'_Journey.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Don't Stop Believin'",
+      "artist": "Journey",
+      "has_synced": true,
+      "path": "select/10_Don't_Stop_Believin'_Journey.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Don’t Stop Believin’",
+      "artist": "Journey",
+      "has_synced": true,
+      "path": "select/11_Don’t_Stop_Believin’_Journey.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Don’t Stop Believin’",
+      "artist": "Journey",
+      "has_synced": true,
+      "path": "select/12_Don’t_Stop_Believin’_Journey.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Don't Stop Believin'",
+      "artist": "Journey",
+      "has_synced": true,
+      "path": "select/13_Don't_Stop_Believin'_Journey.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Don't Stop Believin'",
+      "artist": "Journey",
+      "has_synced": true,
+      "path": "select/14_Don't_Stop_Believin'_Journey.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Don't Stop Believin'",
+      "artist": "Journey",
+      "has_synced": true,
+      "path": "select/15_Don't_Stop_Believin'_Journey.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Don't Stop Believin' (Album Version)",
+      "artist": "Journey",
+      "has_synced": true,
+      "path": "select/16_Don't_Stop_Believin'_(Album_Version)_Journey.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Don't Stop Believin'",
+      "artist": "Journey",
+      "has_synced": false,
+      "path": "select/pl_01_Don't_Stop_Believin'_Journey.txt"
+    }
+  ]
+}
